@@ -183,7 +183,7 @@ public class RegisterController {
 				//URI uri=URI.create(String.format("http://%s:%s",
 					//instance.getHost(),instance.getPort()));	
 				
-				
+				System.out.println("################Users############====="+users);
 				System.out.println("Register-Service.loginUser .URI========="+uri);
 				String url=uri.toString()+"/Trade.html";
 				System.out.println("========================================");
