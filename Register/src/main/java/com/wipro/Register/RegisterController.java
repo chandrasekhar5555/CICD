@@ -186,7 +186,7 @@ public class RegisterController {
 				System.out.println("################UsersKist############====="+users);
 				System.out.println("Register-Service.loginUser .URI========="+uri);
 				String url=uri.toString()+"/Trade.html";
-				System.out.println("======================wwwwwwww=2222222222222=================");
+				System.out.println("======================wwwwwwww=ddddddddddddddd2222222222222=================");
 				System.out.println("Register-Service.loginUser .URI========="+url);
 				
 				try
